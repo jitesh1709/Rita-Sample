@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "node"
+script:
+  -
+deploy:
+  provider: firebase
+  token:1/NrFHyi3UilXl6S45CHxWI_yxv4Y1G-Nihp8VXrhUngA
